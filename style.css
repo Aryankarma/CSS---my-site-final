@@ -1,0 +1,116 @@
+.class{
+    background-color: #e4f9f5;
+}
+h1{
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 562%;
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;;
+    background-color: whitesmoke;
+}
+.profile{
+    margin: 70px;
+}
+.span1{
+    text-decoration: underline;
+}
+.bottomcloud{
+    position: absolute;
+    padding-left: 0px ;
+}
+.topcloud{
+    position: relative;
+    padding-top: 50px;
+    padding-left: 500px;
+}
+.skill-row{
+    width: 65%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+    
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+.chillies{
+    width: 25%;
+    float: right;
+    margin: 30px;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border-style: dotted;
+    border-top-style: none;
+    width: 6%;
+    border-width: 7px;
+    color: #bee9d7cc;
+}
+.contact-me{
+    margin-top: 70px;
+    line-height: 2;
+    margin-bottom: 70px;
+
+}
+.button{
+background:  #11cdd4;
+background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+background-image: -linear-gradient (to bottom, #11cdd4, #11999e);
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 8px;
+font-family: 'Montserrat', sans-serif;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+.button:hover {
+    background: #30e3cb;
+background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -linear-gradient (to bottom, #30e3cb, #2bc4ad);
+text-decoration: none;
+}
+.toppara{
+    width: 40%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 30px 0;
+    color: white;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    margin: 22px;
+}
+a:hover{
+    color: #abf5f5;
+}
